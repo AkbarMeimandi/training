@@ -13,7 +13,13 @@ namespace ConsoleApp3
             Console.WriteLine(str);
         }
 
-        // Some CHanges
-        // Some CHanges 2
+
+        public void MyOutText(string str)
+        {
+            myPrint(str);
+
+
+        }
+
     }
 }
