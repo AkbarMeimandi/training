@@ -8,5 +8,14 @@ namespace ConsoleApp3
 {
     internal class Class3
     {
+        public static void myPrint(string str)
+        {
+            Console.WriteLine(str);
+        }
+
+        public void MyOutText(string str)
+        {
+            myPrint(str);
+        }
     }
 }
