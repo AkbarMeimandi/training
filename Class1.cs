@@ -15,7 +15,6 @@ namespace ConsoleApp3
 
         public void MyOutText(string str)
         {
-
             myPrint(str);
         }
     }
